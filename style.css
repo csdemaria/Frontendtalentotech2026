@@ -134,8 +134,8 @@ body {
 /* hero */
 
 .hero{
-    background-image: url("../img/hero.png");
-    background-size: center;
+    background-image: url("./img/hero.png");
+    background-size: cover;
     background-position: top 5% center;
     box-sizing: border-box;
     padding: 0 80px;
